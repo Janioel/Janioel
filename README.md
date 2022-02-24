@@ -16,7 +16,7 @@ Eae, eu sou o Jânio
   <img align="center" alt="Janioel-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
 </div>
   
-  ##
+  <hr>
   
 <div> 
   <a href="https://instagram.com/i_xaniel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
