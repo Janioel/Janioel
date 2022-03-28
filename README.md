@@ -1,4 +1,4 @@
-## Eae, eu sou o Jânio um estudante de T.I e autodidata de programação.
+## Sou o Jânio, um estudante de T.I e autodidata de programação.
 
 <div align="center" justify-content="space-between">
   <a href="https://github.com/Janioel">
